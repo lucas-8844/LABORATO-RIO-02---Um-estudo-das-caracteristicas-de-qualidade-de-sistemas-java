@@ -4,7 +4,7 @@
 
 Disciplina: Laboratório de Experimentação de Software
 Curso: Engenharia de Software — PUC Minas
-Professor: João Paulo Carneiro Aramuni
+Alunos: Lucas Carvalho Peres e Matheus Pretti
 
 **Análise dos top-1.000 repositórios Java do GitHub**
 *(972 repositórios analisados)*
