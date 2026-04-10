@@ -117,7 +117,7 @@ Critério de significância:
 
 ### Gráfico
 
-![grafico](./data/grafico1.png)
+![Popularidade vs CBO](data/grafico_popularidade_cbo.png)
 
 ---
 
